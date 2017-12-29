@@ -1,5 +1,6 @@
 ﻿namespace Snake
 {
+     //TODO:text.
     public static class Configuration
     {
         public static int Height = 20;
